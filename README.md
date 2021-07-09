@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="Preview" src="https://raw.githubusercontent.com/rocketseat-education/nlw-06-nodejs/master/.github/preview.png">
+  <img alt="Preview" src="https://github.com/FelipeSSac/nlwValoriza/blob/main/valorizaScreeen.png">
 </p>
 
 ## ✨ Tecnologias

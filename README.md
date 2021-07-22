@@ -21,7 +21,7 @@ This project has been setted with the following technologies:
 
 ## 💻 Project
 
-Valoriza it´s a platform to promote the recognition between job partners..
+Valoriza it´s a platform to promote the recognition between job partners.
 
 ## 🚀 How to run
 

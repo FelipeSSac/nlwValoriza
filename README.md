@@ -8,9 +8,9 @@
   <img alt="Preview" src="https://github.com/FelipeSSac/nlwValoriza/blob/main/valorizaScreeen.png">
 </p>
 
-## ✨ Tecnologias
+## ✨ Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project has been setted with the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [Typescript](https://www.typescriptlang.org/)
@@ -19,15 +19,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [PostegreSQL](https://www.postgresql.org/)
 - [JSONWebToken](https://github.com/auth0/node-jsonwebtoken#readme)
 
-## 💻 Projeto
+## 💻 Project
 
-Valoriza é uma plataforma para promover o reconhecimento entre companheiros de equipe.
+Valoriza it´s a platform to promote the recognition between job partners..
 
-## 🚀 Como executar
+## 🚀 How to run
 
-- Clone o repositório
-- Rode `yarn` para baixar as dependências
-- Rode `yarn typeorm migration:run` para criar as tabelas do banco de dados.
-- Rode o `yarn dev` para iniciar a aplicação.
+- Clone this repository.
+- Run `yarn` to install dependencies.
+- Run `yarn typeorm migration:run` to create all tables in database.
+- Run `yarn dev` to start the application.
 
-Por fim, a aplicação estará disponível em `http://localhost:3000`
+Now available on `http://localhost:3000` on your browser.
